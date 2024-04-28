@@ -1,3 +1,3 @@
 #Python Hello World
 
-print("Hello Word")
+print("Hello Word!")
